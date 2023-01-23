@@ -60,6 +60,6 @@ The things that you must have a decent knowledge on:
 
 ### Result:
 
-* The model shows the accuracy R2 score of 0.85% 
+* The Linear model shows the accuracy R2 score of 0.85
 
 * Save the model using pickle Serializers.
